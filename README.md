@@ -5,7 +5,7 @@ This is my first project with Django.
 
 You need install Django and CKEditor to your local host.
 
-Application Feature:
+Application Feature
 1. Mini blog (Create new post, edit post, categori and Tags).
 2. Slug url (You can create own url post).
 3. Template (include blog template "clean").
